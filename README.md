@@ -1,4 +1,4 @@
-#Target-Sales-Pipeline(PART-1)
+#Target-Sales-Pipeline (PART-1)
 
 AWS Lambda Handler for S3 to DynamoDB Data Pipeline
 
