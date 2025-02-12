@@ -28,7 +28,8 @@ Supports AWS Step Functions for multi-step workflows with different Lambda funct
 └── requirements.txt      # Dependencies (for local execution)
 
 
-![image](https://github.com/user-attachments/assets/bc446570-2d28-492f-afcd-5d2dc104303c)
+![image](https://github.com/user-attachments/assets/2d2c50a7-8360-431f-bc27-2a07bbca025e)
+
 
 🚀 Deployment
 
