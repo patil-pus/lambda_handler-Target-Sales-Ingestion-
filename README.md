@@ -35,7 +35,6 @@ Supports AWS Step Functions for multi-step workflows with different Lambda funct
 🚀 Deployment
 
 1️⃣ Deploy to AWS Lambda
-
 Zip the project files:
 zip -r lambda-handler.zip .
 
@@ -58,7 +57,6 @@ python main.py
 Running with Docker
 
 Create a Dockerfile:
-
 FROM python:3.12
 WORKDIR /app
 COPY . .
