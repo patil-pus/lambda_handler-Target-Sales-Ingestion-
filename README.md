@@ -9,13 +9,9 @@ This project automates the creation of DynamoDB tables from CSV schemas in S3 an
 🔧 Features
 
 Auto-creates DynamoDB tables if they don't exist.
-
 Dynamically infers schema from CSV files stored in S3.
-
 Efficient batch insertion into DynamoDB.
-
 Designed for AWS Lambda, but can be deployed on EC2 or Docker.
-
 Supports AWS Step Functions for multi-step workflows with different Lambda functions handling specific tables.
 
 📁 Project Structure
